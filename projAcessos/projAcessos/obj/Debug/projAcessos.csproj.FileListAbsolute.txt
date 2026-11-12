@@ -1,0 +1,7 @@
+C:\Users\aluno\Downloads\Projeto-Acessos\projAcessos\projAcessos\bin\Debug\projAcessos.exe.config
+C:\Users\aluno\Downloads\Projeto-Acessos\projAcessos\projAcessos\bin\Debug\projAcessos.exe
+C:\Users\aluno\Downloads\Projeto-Acessos\projAcessos\projAcessos\bin\Debug\projAcessos.pdb
+C:\Users\aluno\Downloads\Projeto-Acessos\projAcessos\projAcessos\obj\Debug\projAcessos.csproj.AssemblyReference.cache
+C:\Users\aluno\Downloads\Projeto-Acessos\projAcessos\projAcessos\obj\Debug\projAcessos.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\Projeto-Acessos\projAcessos\projAcessos\obj\Debug\projAcessos.exe
+C:\Users\aluno\Downloads\Projeto-Acessos\projAcessos\projAcessos\obj\Debug\projAcessos.pdb
